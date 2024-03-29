@@ -1,1 +1,2 @@
-# This is a game in which software needs to find the number
+# This is a game in which software needs to find the number given by user
+
